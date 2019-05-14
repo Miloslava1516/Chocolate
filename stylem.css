@@ -1,0 +1,32 @@
+.text {
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	font-weight: lighter;
+	font-size: 24px;
+	
+}
+.block {
+	background-color: #7F4E1C; 
+
+}
+
+.block1 {
+	background-color: blue; 
+
+}
+.block2 {
+	background-color: #C7A3DD; 
+
+}
+.block3 {
+	background-color: #117C1A; 
+
+}
+
+
+
+.arrow {
+	width: : 100px;
+	height: 80px;
+}
